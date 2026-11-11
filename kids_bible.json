@@ -1,0 +1,26 @@
+{
+ "channel_name": "Mossy Meadow",
+ "tagline": "Gentle little stories for peaceful bedtimes.",
+ "style": "Delicate watercolor children's picture-book illustration with soft pastel colors, rounded shapes, clean outlines, glowing warm light, and rich cozy details.",
+ "world": "A sun-dappled woodland valley where miniature cottage gardens, mossy hollows, and lantern-lit burrows welcome gentle, curious friends every day.",
+ "characters": [
+  {
+   "name": "Barnaby",
+   "kind": "animal",
+   "look": "A small, plump honey-brown dormouse wearing knitted mustard dungarees, featuring large round velvety ears, friendly dark eyes, and tiny soft teal booties.",
+   "personality": "Thoughtful, unhurried, and observant, Barnaby loves collecting smooth river pebbles and noticing the tiny wonders others miss."
+  },
+  {
+   "name": "Milly",
+   "kind": "child",
+   "look": "A four-year-old girl with rosy cheeks, soft curly black pigtails, wearing a pale mint-green pinafore dress over a cream long-sleeved shirt.",
+   "personality": "Warmhearted, imaginative, and endlessly gentle, Milly delights in sharing stories and humming calming lullabies to woodland insects."
+  },
+  {
+   "name": "Pipkin",
+   "kind": "animal",
+   "look": "A small, slow-moving sage-green tortoise with warm crinkled eyes, wearing a hand-knit burgundy wool scarf and tiny round brass spectacles.",
+   "personality": "Patient, deeply reassuring, and wise, Pipkin acts as a quiet guide who helps untangle small worries with warm herbal tea."
+  }
+ ]
+}
